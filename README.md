@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Student-Expert learning Platform**
 
-- 🌱 I’m currently learning **Backend development ,DSA ,**
+- 🌱 I’m currently learning **Backend development ,DSA ,Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neerav02](https://github.com/Neerav02)
 
