@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neerav Babel</h1>
-<h3 align="center">A second-year B.Tech student from India with a strong passion for technology. I love learning new concepts in computer science and exploring emerging technologies. Always eager to collaborate on exciting projects, I strive to build innovative digital solutions while continuously expanding my knowledge.</h3>
+<h3 align="center">A third-year B.Tech student from India with a strong passion for technology. I love learning new concepts in computer science and exploring emerging technologies. Always eager to collaborate on exciting projects, I strive to build innovative digital solutions while continuously expanding my knowledge.</h3>
 
 - 🔭 I’m currently working on **Student-Expert learning Platform**
 
